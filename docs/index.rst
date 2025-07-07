@@ -8,11 +8,11 @@ How Do I Sign In to My HitmanPro Account?
 
 Discover how to sign in to your HitmanPro account easily and manage your subscription with this complete step-by-step guide.
 
-.. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+.. image:: sign-in.jpg
    :alt: HitmanPro Sign In Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/hitmanpro-sign-in-account
+   :target: https://hitmanproaccount.com
 
 HitmanPro is a trusted name in cybersecurity, offering advanced malware detection and removal tools that protect your computer from harmful threats. If you use HitmanPro, knowing how to sign in to your account is crucial for managing your software, licenses, and subscriptions efficiently.
 
