@@ -1,4 +1,4 @@
-project = 'At&t'
+project = 'HitmanPro'
 author = 'Denial'
 release = '1.0'
  
